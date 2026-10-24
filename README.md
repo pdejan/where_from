@@ -4,6 +4,13 @@
 
 Hover over a mounted player and the tooltip tells you which mount they're riding, how it's obtained, and whether you already have it.
 
+<p>
+  <img src="https://raw.githubusercontent.com/pdejan/where_from/main/screenshots/screenshot1.jpg" alt="Alunira: drop from Isle of Dorn" height="180">
+  <img src="https://raw.githubusercontent.com/pdejan/where_from/main/screenshots/screenshot2.jpg" alt="Chrono Corsair: Timewalking vendor" height="180">
+  <img src="https://raw.githubusercontent.com/pdejan/where_from/main/screenshots/screenshot3.jpg" alt="Soaring Meaderbee: vendor in the Isle of Dorn" height="180">
+  <img src="https://raw.githubusercontent.com/pdejan/where_from/main/screenshots/screenshot4.jpg" alt="Traveler's Tundra Mammoth: vendor in Crystalsong Forest, collected" height="180">
+</p>
+
 ## What it shows
 
 When you mouse over another player who is mounted, a **Where From?** section is added to their tooltip:
@@ -14,17 +21,3 @@ When you mouse over another player who is mounted, a **Where From?** section is 
 - **Collected / Not collected** – whether you already own the mount.
 
 Nothing is added for unmounted players, NPCs or yourself. All information comes from Blizzard's Mount Journal.
-
-## Install
-
-Download the latest zip from [Releases](https://github.com/pdejan/where_from/releases) and extract the `WhereFrom` folder into:
-
-`World of Warcraft/_retail_/Interface/AddOns/`
-
-The resulting path must be `AddOns/WhereFrom/WhereFrom.toc`. Restart WoW if it was running, then enable **Where From?** in the character selection AddOns list.
-
-The addon targets Retail (interface 120105). There are no commands, settings, or library dependencies.
-
-## License
-
-[MIT](LICENSE)
