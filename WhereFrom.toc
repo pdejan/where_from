@@ -2,7 +2,10 @@
 ## Title: Where From?
 ## Notes: Shows where a player's mount comes from in their tooltip.
 ## Author: Dejan
-## Version: 0.1.0
+## Version: 0.1.1
 ## IconTexture: Interface\Icons\Ability_Mount_Charger
+## X-Wago-ID: RNL41DNo
+## X-Curse-Project-ID: 1763080
+## X-WoWI-ID: 27275
 
 WhereFrom.lua
